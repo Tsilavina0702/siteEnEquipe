@@ -1,0 +1,36 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    font-size: 35px;
+    font-weight: bold;
+    margin: auto 15%;
+    
+}
+.menus{
+    font-size: 15px;
+    
+}
+.section1{
+    background: url('image/24.6 main.jpg') ;
+    height: 500px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 150px  ;
+}
+.section1 h2{
+    font-weight: normal;
+}
+.section1 button{
+    margin-top: 100px;
+    margin-bottom: 80px;
+    background: rgb(255, 145, 0);
+    border: solid 1px rgb(255, 145, 0);
+    padding: 4px 12px;
+}
+.section1 button a{
+    color: white;
+}
+.section2{
+    background-image: url('image/24.4\ article-image-1.jpg');
+}
